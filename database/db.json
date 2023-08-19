@@ -1,0 +1,77 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"selva",
+            "email":"selvamecsoft@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1690888677087-2c33a9d3f29b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDM3fHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Admin"
+        },
+          {
+            "id":2,
+            "name":"ganapathi",
+            "email":"ganapaxys@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1690495575921-370d1cd566c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDYyfHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Owner"
+        },  {
+            "id":3,
+            "name":"carey",
+            "email":"careyhta@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1688302231150-f1d390ac872f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDczfHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Assist"
+        },  {
+            "id":4,
+            "name":"marlin",
+            "email":"mary@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1690043542916-b35f92d14331?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDc0fHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Technical"
+        },  {
+            "id":5,
+            "name":"clantra",
+            "email":"clantrea@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1687686424276-2527f6c04193?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEyOHx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Technical"
+        },  {
+            "id":6,
+            "name":"santose",
+            "email":"santosed@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1687169186248-e27bace44626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3M3x0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Team Lead"
+        },  {
+            "id":7,
+            "name":"Danier",
+            "email":"danierhg@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1680011075204-9c5aad77ba48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIwMnx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Assist"
+        },  {
+            "id":8,
+            "name":"Barley",
+            "email":"barleyh@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1685297269362-e604510647ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDMyOHx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Admin",
+            "role":"Assist"
+        },  {
+            "id":9,
+            "name":"Halend",
+            "email":"halen@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1685079711000-12f020ee3ec0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDMzNnx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Assist"
+        },
+          {
+            "id":10,
+            "name":"Henry",
+            "email":"henryr@gmail.com",
+            "profile":"https://images.unsplash.com/photo-1650563277143-1d1060410864?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDM3OHx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+            "status":"Active",
+            "role":"Associate"
+        }
+    ]
+}
